@@ -1,0 +1,52 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-family: cursive;
+    font-weight: normal;
+    font-style: oblique;
+}
+
+h4{
+    font-family: cursive;
+}
+
+#result1{
+    margin-bottom: 10px;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+#result2{
+    margin-bottom: 10px;
+}
